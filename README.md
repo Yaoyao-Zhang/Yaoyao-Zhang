@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Yaoyao-Zhang
-- 👀 I’m interested in FinTech.
-- 🌱 I’m currently exploring the immense possibilities in the intersection of AI and Web 3. 
+- 👀 I’m interested in FinTech
